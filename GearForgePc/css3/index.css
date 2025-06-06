@@ -1,0 +1,29 @@
+.achtergrond{
+    background-color: black;
+}
+
+.welkom{
+    color: whitesmoke;
+}
+
+.nav{
+    background-color: grey;
+    padding: 10px;
+    border-radius: 15px;
+}
+.nav a{
+    color: white;
+    font-size: larger;
+    background-color: green;
+}
+.container{
+    background-color: rgb(107, 103, 103);
+    color: white;
+    padding: 15px;
+    border-radius: 15px;
+    margin-top: 15px;
+    
+}
+#copyright{
+    color: white;
+}
